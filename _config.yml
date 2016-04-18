@@ -1,0 +1,28 @@
+name: elisabeth
+favicon: null
+layout_spectrum: 0.5866263695061207
+typography_spectrum: 0.9285373282618821
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5181969213299453
+  lightness: 0.19368494977243245
+  saturation: 0.18954461463727057
+  rhythmicContrast: 0.2687121327035129
+purpose: []
