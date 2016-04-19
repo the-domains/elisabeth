@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: '"Shine bright like a diamond"'
-datePublished: '2016-04-19T00:17:19.589Z'
-dateModified: '2016-04-19T00:16:34.119Z'
+datePublished: '2016-04-19T00:35:02.581Z'
+dateModified: '2016-04-19T00:34:58.887Z'
 title: ' The Brilliant Diamond Package'
 author: []
+sourcePath: _posts/2016-04-19-the-brilliant-diamond-package.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-the-brilliant-diamond-package.md
-published: true
 url: the-brilliant-diamond-package/index.html
 _type: Article
 
@@ -61,9 +61,35 @@ The stylish white French provincial table, decorated with a white majestic feath
 Walk down the aisle to our breathtaking 10m x 1.6m wide plush petal runner covered in thousands of silk rose petals. Our lavish aisle runner has been handmade and customised to perfection.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18fcafdc-6502-4987-ba07-83cc96a70dca.jpg)
 
+Location: Sydney Olympic Park
+
 **Drapes**
 
 Our Hi-Multi Chiffon drapes perfectly illuminates the scenery by creating a floaty and romantic feel. Choose from our glamorous pink or soft white drapes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/507e4cb7-1fc4-485e-be37-73dd81c02c41.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd43fb78-7798-41b9-8be8-07fc149f1b89.jpg)
+
+**French Provincial Lanterns**
+
+The exquisite creamy white French provincial lanterns, decorated inside with a pillar candle and floral decor beautifully adds an element of sophistication and elegance.
+
+**White Tiffany Chiavari Chairs**
+
+The classic Tiffany Chiavari chairs inserted with comfy high quality cushions, adds a touch of opulence and glamour to the entire showcase. Simple, elegant and timeless.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/757ae934-d2e1-4faf-87f8-586ff489e627.jpg)
+
+**Flower Arrangements**
+
+Our floral arrangements are created using premium real touch flowers. These flowers feel and look like the real thing. They are especially great for those that may suffer from hay fever or have allergies to pollen. Gone are the irritated watering eyes and red nose in wedding photos. You would not know the difference! These real silk touch flowers are nothing short of amazing.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e63dc9ad-a46f-483c-bbc8-11623956f59b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d9b3a0e-4d9c-49ac-88e8-4871731ba289.jpg)
+
+**Glass Trumpet Vases**
+
+The luxurious glass trumpet vases filled with water and plush petals, will take your breath away as you walk down the aisle.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11f6804f-3fa4-4517-a9f6-2c6b0482c960.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddfe5098-8352-4567-9184-abb3bbda5940.jpg)
+
+Location: Curzon Hall
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b0fbab5-05fb-4be4-9dec-c95f96b42f61.jpg)
 
 __
