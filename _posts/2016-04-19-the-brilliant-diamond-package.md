@@ -3,20 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: '"Shine bright like a diamond"'
-datePublished: '2016-05-23T06:12:30.580Z'
-dateModified: '2016-04-19T01:11:09.443Z'
+datePublished: '2016-05-23T06:38:22.485Z'
+dateModified: '2016-05-23T06:16:26.621Z'
 title: 1. The Brilliant Diamond Package
 author: []
 sourcePath: _posts/2016-04-19-the-brilliant-diamond-package.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: true
 url: the-brilliant-diamond-package/index.html
 _type: Article
 
