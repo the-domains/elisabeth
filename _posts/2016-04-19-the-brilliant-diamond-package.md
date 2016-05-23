@@ -6,12 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: '"Shine bright like a diamond"'
-datePublished: '2016-04-19T01:11:01.293Z'
-dateModified: '2016-04-19T01:10:31.752Z'
+datePublished: '2016-05-23T06:12:30.580Z'
+dateModified: '2016-04-19T01:11:09.443Z'
 title: 1. The Brilliant Diamond Package
 author: []
 sourcePath: _posts/2016-04-19-the-brilliant-diamond-package.md
-published: true
 authors: []
 publisher:
   name: null
